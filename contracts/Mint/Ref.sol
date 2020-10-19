@@ -1,3 +1,7 @@
+/**
+ *Submitted for verification at BscScan.com on 2020-10-16
+*/
+
 // SPDX-License-Identifier: None
 pragma solidity ^0.6;
 
